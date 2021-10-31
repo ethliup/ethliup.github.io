@@ -51,7 +51,8 @@ blockquote {
 // Profile
 
 .profile {
-  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-top: 0.1rem;
   width: 100%;
 
   .address {
@@ -189,6 +190,9 @@ blockquote {
 
 
 // News
+.news {
+  margin-bottom: 1rem;
+}
 
 .news table td {
   font-size: 1rem;
@@ -366,7 +370,7 @@ footer.sticky-bottom {
 // Publications
 
 .publications {
-  margin-top: 2rem;
+  margin-top: 0rem;
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
@@ -394,6 +398,7 @@ footer.sticky-bottom {
     margin-top: 0;
 
     li {
+      margin-left: -9.3rem;
       margin-bottom: 1rem;
       .abbr {
         height: 2rem;
@@ -401,7 +406,7 @@ footer.sticky-bottom {
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
-          padding-left: 1rem;
+          padding-left: 1rem; 
           padding-right: 1rem;
           a {
             color: white;

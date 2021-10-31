@@ -2,23 +2,28 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: > 
+  Assistant Professor<br><br>
+  Computer Vision and Geometric Learning lab (CVGL) <br>
+  <a href="https://en.westlake.edu.cn/academics/School_of_Engineering/Programs/AI/">Artificial Intelligence and Data Science(AI) Division</a><br>
+  <a href="https://en.westlake.edu.cn/academics/School_of_Engineering/About/Overview/">School of Engineering </a> <br>
+  <a href="https://en.westlake.edu.cn/">Westlake University</a>, Hangzhou, China<br>
+  Email: <a href="liupeidong@westlake.edu.cn">liupeidong@westlake.edu.cn</a>
+  <br>
+  <br>
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  align: left
+  image: peidong.jpg
+  address: 
 
 news: true  # includes a list of news items
+students: true
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Dr. Peidong Liu is currently an Assistant Professor of Computer Science at the [Westlake University](https://en.westlake.edu.cn/), Hangzhou, China. He obtained his PhD degree from the Department of Computer Science at ETH Zurich, under the supervision of [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/) and [Prof. Andreas Geiger](http://www.cvlibs.net/). Prior joining ETH as a PhD student, he was part of the Unmanned System Research Group from the [National University of Singapore (NUS)](https://www.nus.edu.sg/), under the supervision of [Prof. Ben M Chen](http://www.mae.cuhk.edu.hk/~bmchen/). He obtained both his master and bachelor degrees in Electrical Engineering from NUS. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+His research work mainly lies at the intersection of robotics and 3D computer vision, with the applications to robotics, autonomous driving, virtual reality and augmented reality etc. His recent research mainly focuses on developing *robust* visual localization and mapping algorithms to enable mobile agents know where they are and what surround them, under challenging real world conditions. Prior state-of-the-art approaches are mainly based on geometric constraints and are already well developed. As his future research interests, Dr. Liu aims to incorporate machine learning techniques (i.e. mainly deep neural networks) to those 3D visual perception algorithms to improve their performance, especially under extremely challenging conditions. He would also like to transfer the knowledge in geometric deep learning for 3D computer vision problems, to the areas of life science and other related disciplines.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
