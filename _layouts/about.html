@@ -4,7 +4,7 @@ layout: default
 
 <div class="post">
 
-  <div>
+  <div class="post-head">
     <table style="width: 100%;" border="0" cellpadding="0" width="100%">
       <tbody>
         <tr style="">
@@ -12,12 +12,12 @@ layout: default
           <img src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}" width=225>
         </td>
         <td>
-          <h1>
+          <h1 class="post-title">
             {% if site.title == "blank" %}
             <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{% else %}{{ site.title }}
             {% endif %}
           </h1>
-          <p>
+          <p class="desc">
           {{ page.description }}
           </p>      
         </td>
