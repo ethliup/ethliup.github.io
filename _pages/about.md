@@ -12,7 +12,7 @@ description: >
 
 profile:
   align: left
-  image: peidong.jpg
+  image: peidong_large.jpg
   address: 
 
 news: true  # includes a list of news items
