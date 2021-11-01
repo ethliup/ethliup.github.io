@@ -9,8 +9,6 @@ description: >
   <a href="https://en.westlake.edu.cn/academics/School_of_Engineering/About/Overview/">School of Engineering </a> <br>
   <a href="https://en.westlake.edu.cn/">Westlake University</a>, Hangzhou, China<br>
   Email: <a href="liupeidong@westlake.edu.cn">liupeidong@westlake.edu.cn</a>
-  <br>
-  <br>
 
 profile:
   align: left

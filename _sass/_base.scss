@@ -48,6 +48,29 @@ blockquote {
   color: var(--global-theme-color);
 }
 
+//
+/* tell the container's children to float left: */
+.float-my-children > * {
+    float:left;
+    margin-right:5px;
+} 
+
+/* this is called a clearfix. it makes sure that the container's children floats are cleared, without using extra markup */
+
+.clearfix {
+    *zoom:1 /* for IE */
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
 // Profile
 
 .profile {
@@ -190,6 +213,11 @@ blockquote {
 
 
 // News
+.about {
+  margin-bottom: 1rem;
+
+}
+
 .news {
   margin-bottom: 1rem;
 }

@@ -4,23 +4,21 @@ layout: default
 
 <div class="post">
 
-  <header class="post-header">
-    {% if page.profile %}
-    <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-      {% if page.profile.image %}
-        <img class="img-fluid z-depth-1 rounded" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
-      {% endif %}
-    </div>
-    {% endif %}
+  <div class="clearfix float-my-children">
+    <img src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}" width=225>
 
+    <div>
     <h1 class="post-title">
-     {% if site.title == "blank" %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{% else %}{{ site.title }}{% endif %}
+     {% if site.title == "blank" %}
+     <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{% else %}{{ site.title }}
+     {% endif %}
     </h1>
      <p class="desc">{{ page.description }}</p>
-  </header>
+   </div>
+  </div>
 
   <article>
-    <div class="clearfix">
+    <div class="about">
       <h2>About</h2>
       {{ content }}
     </div>
