@@ -8,10 +8,10 @@ layout: default
     <table style="width: 100%;" border="0" cellpadding="0" width="100%">
       <tbody>
         <tr style="">
-          <td style="padding: 2px 2px 2px 5px;" valign="top" width="225">
+          <td valign="top" width="225">
           <img src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}" width=225 class="responsive">
         </td>
-        <td>
+        <td style="padding-left: 15px">
           <h1 class="post-title">
             {% if site.title == "blank" %}
             <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{% else %}{{ site.title }}
