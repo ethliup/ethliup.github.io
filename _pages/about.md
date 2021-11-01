@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
+position: Assistant Professor
 description: > 
-  Assistant Professor<br><br>
   Computer Vision and Geometric Learning lab (CVGL) <br>
   <a href="https://en.westlake.edu.cn/academics/School_of_Engineering/Programs/AI/">Artificial Intelligence and Data Science (AI) Division</a><br>
   <a href="https://en.westlake.edu.cn/academics/School_of_Engineering/About/Overview/">School of Engineering </a> <br>
