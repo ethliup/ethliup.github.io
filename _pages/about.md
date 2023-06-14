@@ -21,7 +21,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Dr. Peidong Liu is currently an Assistant Professor of Computer Science at the [Westlake University](https://en.westlake.edu.cn/), Hangzhou, China. He obtained his PhD degree from the Department of Computer Science at ETH Zurich, under the supervision of [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/) and [Prof. Andreas Geiger](http://www.cvlibs.net/). Prior joining ETH as a PhD student, he was part of the Unmanned System Research Group from the [National University of Singapore (NUS)](https://www.nus.edu.sg/), under the supervision of [Prof. Ben M Chen](http://www.mae.cuhk.edu.hk/~bmchen/). He obtained both his master and bachelor degrees in Electrical Engineering from NUS. 
+Dr. Peidong Liu is currently an Assistant Professor of Computer Science at the [Westlake University](https://en.westlake.edu.cn/), Hangzhou, China. He obtained his PhD degree from the Department of Computer Science at ETH Zurich, under the supervision of [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/) and [Prof. Andreas Geiger](http://www.cvlibs.net/). He obtained both his master and bachelor degrees in Electrical Engineering from the National University of Singapore. 
 
-His research work mainly lies at the intersection of robotics and 3D computer vision, with the applications to robotics, autonomous driving, virtual reality and augmented reality etc. His recent research mainly focuses on developing *robust* visual localization and mapping algorithms to enable mobile agents know where they are and what surround them, under challenging real world conditions. Prior state-of-the-art approaches are mainly based on geometric constraints and are already well developed. As his future research interests, Dr. Liu aims to incorporate machine learning techniques (i.e. mainly deep neural networks) to those 3D visual perception algorithms to improve their performance, especially under extremely challenging conditions. He would also like to transfer the knowledge in 3D deep learning for 3D computer vision problems, to the areas of life science and other related disciplines.
+His prior research work mainly lies at the intersection of robotics and 3D computer vision, with the applications to robotics, autonomous driving, virtual reality and augmented reality etc. His recent research interests are as follows:
+- 3D Computer Vision: visual odometry, vision-based localization, SLAM, 3D reconstruction, 3D generative modeling (i.e., 3D AIGC) etc.;
+- 3D Vision+X: interdisciplinary research by applying 3D vision techniques to other areas.
+
+
 
