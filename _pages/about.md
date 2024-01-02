@@ -10,8 +10,8 @@ description: >
   <a href="https://en.westlake.edu.cn/">Westlake University</a>, Hangzhou, China
   <br>
   Email: <a href="liupeidong@westlake.edu.cn">liupeidong@westlake.edu.cn</a>
-  <br><br>
-  Welcome to follow our research work on: <a href="https://twitter.com/PeidongLiu_"><em>Twitter</em></a>, <a href="https://github.com/WU-CVGL"><em>Github</em></a>, <a href="https://www.zhihu.com/people/peterliueth"><em>Zhihu</em></a>!!
+socialmedia: >
+  Welcome to follow our research work on: <em><a href="https://twitter.com/PeidongLiu_">Twitter</a></em>, <em><a href="https://github.com/WU-CVGL">Github</a></em>, <em><a href="https://www.zhihu.com/people/peterliueth">Zhihu</a></em>!!
 
 profile:
   align: left
