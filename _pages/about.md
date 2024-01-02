@@ -11,7 +11,7 @@ description: >
   <br>
   Email: <a href="liupeidong@westlake.edu.cn">liupeidong@westlake.edu.cn</a>
 socialmedia: >
-  Welcome to follow our research work on: <em><a href="https://twitter.com/PeidongLiu_">Twitter</a></em>, <em><a href="https://github.com/WU-CVGL">Github</a></em>, <em><a href="https://www.zhihu.com/people/peterliueth">Zhihu</a></em>!!
+  Welcome to follow our latest research on: <em><a href="https://twitter.com/PeidongLiu_">Twitter</a></em>, <em><a href="https://github.com/WU-CVGL">Github</a></em>, <em><a href="https://www.zhihu.com/people/peterliueth">Zhihu</a></em> !!
 
 profile:
   align: left
