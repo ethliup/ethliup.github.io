@@ -7,8 +7,11 @@ description: >
   Computer Vision and Geometric Learning lab (CVGL) <br>
   <a href="https://en.westlake.edu.cn/academics/School_of_Engineering/Programs/AI/">Artificial Intelligence and Data Science (AI) Division</a><br>
   <a href="https://en.westlake.edu.cn/academics/School_of_Engineering/About/Overview/">School of Engineering </a> <br>
-  <a href="https://en.westlake.edu.cn/">Westlake University</a>, Hangzhou, China<br>
+  <a href="https://en.westlake.edu.cn/">Westlake University</a>, Hangzhou, China
+  <br>
   Email: <a href="liupeidong@westlake.edu.cn">liupeidong@westlake.edu.cn</a>
+  <br>
+  You are welcome to follow our research work on: <a href="https://twitter.com/PeidongLiu_">Twitter</a> <a href="https://github.com/WU-CVGL">Github</a> <a href="https://www.zhihu.com/people/peterliueth">Zhihu</a>
 
 profile:
   align: left
