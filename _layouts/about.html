@@ -1,19 +1,6 @@
 ---
 layout: default
 ---
-
-{% if site.title and site.title != "" %}
-  {{ site.title }}
-{% else %}
-  {{ site.first_name | default: "First Name" }} {{ site.middle_name | default: "" }} {{ site.last_name | default: "Last Name" }}
-{% endif %}
-
-{{ page.position | default: "Position not specified" }}
-
-{{ page.description | default: "Description not available" }}
-
-{{ page.socialmedia | default: "Social media links not available" }}
-
 <div class="post">
 
   <div class="post-head">
