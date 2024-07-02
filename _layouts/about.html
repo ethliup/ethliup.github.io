@@ -2,6 +2,18 @@
 layout: default
 ---
 
+{% if site.title and site.title != "" %}
+  {{ site.title }}
+{% else %}
+  {{ site.first_name | default: "First Name" }} {{ site.middle_name | default: "" }} {{ site.last_name | default: "Last Name" }}
+{% endif %}
+
+{{ page.position | default: "Position not specified" }}
+
+{{ page.description | default: "Description not available" }}
+
+{{ page.socialmedia | default: "Social media links not available" }}
+
 <div class="post">
 
   <div class="post-head">
@@ -28,7 +40,7 @@ layout: default
     </table>
   </div>
 
-  <!-- <article>
+  <article>
     <div class="about">
       <h2><u><b>About</b></u></h2>
       {{ content }}
@@ -44,9 +56,9 @@ layout: default
       {% include students.html %}
     {% endif %}
 
-    {% if page.selected_papers %}
+    <!-- {% if page.selected_papers %}
       {% include selected_papers.html %}
-    {% endif %}
+    {% endif %} -->
 
     {% if page.social %}
     <div class="social">
@@ -56,6 +68,6 @@ layout: default
       <div class="contact-note">{{ site.contact_note }}</div>
     </div>
     {% endif %}
-  </article> -->
+  </article>
 
 </div>
