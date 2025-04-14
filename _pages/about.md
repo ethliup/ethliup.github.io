@@ -24,10 +24,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Dr. Peidong Liu is currently an Assistant Professor of Computer Science at the [Westlake University](https://en.westlake.edu.cn/), Hangzhou, China. He obtained his PhD degree from the Department of Computer Science at ETH Zurich, under the supervision of [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/). He obtained both his master and bachelor degrees in Electrical Engineering from the National University of Singapore. His research bridges 3D computer vision and robotics, focusing on visual spatial intelligence (SpatialAI) - developing algorithms that enable machines to perceive, understand, and interact with their 3D environment through visual data. Details are as follows:
+Dr. Peidong Liu is currently an Assistant Professor of Computer Science at [Westlake University](https://en.westlake.edu.cn/), Hangzhou, China. He got his PhD degree from the Department of Computer Science at ETH Zurich, under the supervision of [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/). He got both his master and bachelor degrees in Electrical Engineering from National University of Singapore. His research bridges 3D computer vision and robotics, focusing on visual spatial intelligence (SpatialAI) - developing algorithms that enable machines to perceive, understand, and interact with their 3D environment through visual data. Details are as follows:
 - Perception: 3D/4D reconstruction and generation;
 - Reasoning: 3D scene understanding and reasoning;
-- Action: 3D vision for humanoid robot;
+- Action: 3D vision for robot;
 
 
 
