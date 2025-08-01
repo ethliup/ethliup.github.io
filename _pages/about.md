@@ -4,7 +4,7 @@ title: about
 permalink: /
 position: Assistant Professor
 description: > 
-  Spatial Intelligence and Robotics lab (SpatialAI lab) <br>
+  Spatial Intelligence and Robotics lab <br>
   <a href="https://en.westlake.edu.cn/academics/School_of_Engineering/Programs/AI/">Department of Artificial Intelligence</a><br>
   <a href="https://en.westlake.edu.cn/academics/School_of_Engineering/About/Overview/">School of Engineering </a> <br>
   <a href="https://en.westlake.edu.cn/">Westlake University</a>, Hangzhou, China
