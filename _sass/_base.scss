@@ -206,6 +206,15 @@ blockquote {
   margin-bottom: 1rem;
 }
 
+.awards,
+.services {
+  margin-bottom: 1rem;
+}
+
+.services + .students {
+  margin-top: 1rem;
+}
+
 .students {
   margin-bottom: 1rem;
   margin-top: -1.5rem;
