@@ -19,6 +19,8 @@ profile:
   address: 
 
 news: true  # includes a list of news items
+awards: true
+services: true
 students: true
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
@@ -28,6 +30,5 @@ Dr. Peidong Liu is currently an Assistant Professor of Computer Science at [West
 - Perception: 3D/4D reconstruction and generation;
 - Reasoning: 3D scene understanding and reasoning;
 - Action: 3D vision for robot;
-
 
 
