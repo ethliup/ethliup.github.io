@@ -206,22 +206,17 @@ blockquote {
   margin-bottom: 1rem;
 }
 
-.awards,
-.services {
+.awards {
   margin-bottom: 1rem;
 }
 
 .students {
   margin-bottom: 1rem;
-  margin-top: -1.5rem;
+  margin-top: 0rem;
 }
 
 .services {
-  padding-bottom: 1.5rem;
-}
-
-.services + .students {
-  margin-top: 0;
+  padding-bottom: 1rem;
 }
 
 .news table td {
