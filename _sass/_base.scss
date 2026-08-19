@@ -211,13 +211,17 @@ blockquote {
   margin-bottom: 1rem;
 }
 
-.services + .students {
-  margin-top: 1rem;
-}
-
 .students {
   margin-bottom: 1rem;
   margin-top: -1.5rem;
+}
+
+.services {
+  padding-bottom: 1.5rem;
+}
+
+.services + .students {
+  margin-top: 0;
 }
 
 .news table td {
